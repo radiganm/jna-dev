@@ -1,0 +1,3 @@
+[submodule "submodules/librad"]
+	path = submodules/librad
+	url = git@github.com:radiganm/librad.git
