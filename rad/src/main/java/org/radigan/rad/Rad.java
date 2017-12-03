@@ -1,4 +1,4 @@
-// RadLib.java
+// Rad.java
 //
 // Copyright 2016 Mac Radigan
 // All Rights Reserved
